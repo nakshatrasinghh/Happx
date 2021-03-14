@@ -3,7 +3,7 @@
 Welcome to the repository of the project Happx by team `Link List, Not Aadhar`. ❤️
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/53419293/111057633-09978400-84af-11eb-9b37-97a0467832b5.png" width="310" height="600"> <img src="https://user-images.githubusercontent.com/53419293/111057641-10be9200-84af-11eb-8ff4-1a218f6ba224.png" width="310" height="600"> <img src="https://user-images.githubusercontent.com/53419293/111057638-0f8d6500-84af-11eb-9560-43b8c606237d.png" width="310" height="600">
+<img src="https://user-images.githubusercontent.com/53419293/111057638-0f8d6500-84af-11eb-9560-43b8c606237d.png" width="310" height="600"> <img src="https://user-images.githubusercontent.com/53419293/111057641-10be9200-84af-11eb-8ff4-1a218f6ba224.png" width="310" height="600"> <img src="https://user-images.githubusercontent.com/53419293/111057633-09978400-84af-11eb-9b37-97a0467832b5.png" width="310" height="600">
 </p>
 
 # Statistics 📈
