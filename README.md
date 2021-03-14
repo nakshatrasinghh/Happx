@@ -28,7 +28,7 @@ We researched and found out that our lifestyle plays a colossal role in happines
 
 Ha, we know that you have already heard that somewhere, so let's get to the point! 🙆‍♀️
 
-We built you an informative application right in your mobile. It will just show you the coolest things on Earth (and maybe Neptune as well; could get too cold), someone that will teach you good habits like exercising, eating a healthy diet and laughing. But whatever it does, it will be selflessly present to improve the quality of your life. 🌻
+We built you an informative application right in your mobile. It will just show you the coolest things on Earth, someone that will teach you good habits like exercising, eating a healthy diet and laughing. But whatever it does, it will be selflessly present to improve the quality of your life. 🌻
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/53419293/111057357-fb486880-84ac-11eb-8b85-b0b7e60adc15.png" width="310" height="600"> <img src="https://user-images.githubusercontent.com/53419293/111057359-013e4980-84ad-11eb-9a4e-f0b4831d0b77.png" width="310" height="600"> <img src="https://user-images.githubusercontent.com/53419293/111057361-03080d00-84ad-11eb-94d5-35dd1f44482e.png" width="310" height="600">
