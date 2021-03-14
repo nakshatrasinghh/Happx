@@ -3,7 +3,7 @@
 Welcome to the repository of the project Happx by team `Link List, Not Aadhar`. ❤️
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/53419293/111057633-09978400-84af-11eb-9b37-97a0467832b5.png" width="280" height="600"> <img src="https://user-images.githubusercontent.com/53419293/111057641-10be9200-84af-11eb-8ff4-1a218f6ba224.png" width="280" height="600"> <img src="https://user-images.githubusercontent.com/53419293/111057638-0f8d6500-84af-11eb-9560-43b8c606237d.png" width="280" height="600">
+<img src="https://user-images.githubusercontent.com/53419293/111057633-09978400-84af-11eb-9b37-97a0467832b5.png" width="310" height="600"> <img src="https://user-images.githubusercontent.com/53419293/111057641-10be9200-84af-11eb-8ff4-1a218f6ba224.png" width="310" height="600"> <img src="https://user-images.githubusercontent.com/53419293/111057638-0f8d6500-84af-11eb-9560-43b8c606237d.png" width="310" height="600">
 </p>
 
 # Statistics 📈
@@ -31,7 +31,7 @@ Ha, we know that you have already heard that somewhere, so let's get to the poin
 We built you an informative application right in your mobile. It will just show you the coolest things on Earth (and maybe Neptune as well; could get too cold), someone that will teach you good habits like exercising, eating a healthy diet and laughing. But whatever it does, it will be selflessly present to improve the quality of your life. 🌻
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/53419293/111057357-fb486880-84ac-11eb-8b85-b0b7e60adc15.png" width="280" height="600"> <img src="https://user-images.githubusercontent.com/53419293/111057359-013e4980-84ad-11eb-9a4e-f0b4831d0b77.png" width="280" height="600"> <img src="https://user-images.githubusercontent.com/53419293/111057361-03080d00-84ad-11eb-94d5-35dd1f44482e.png" width="280" height="600">
+<img src="https://user-images.githubusercontent.com/53419293/111057357-fb486880-84ac-11eb-8b85-b0b7e60adc15.png" width="310" height="600"> <img src="https://user-images.githubusercontent.com/53419293/111057359-013e4980-84ad-11eb-9a4e-f0b4831d0b77.png" width="310" height="600"> <img src="https://user-images.githubusercontent.com/53419293/111057361-03080d00-84ad-11eb-94d5-35dd1f44482e.png" width="310" height="600">
 </p>
 
 # Features 🌊
@@ -49,7 +49,7 @@ We built you an informative application right in your mobile. It will just show 
 2. Food tips
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/53419293/111057516-2a130e80-84ae-11eb-9585-e0f9fc83ca63.png" width="280" height="600"> <img src="https://user-images.githubusercontent.com/53419293/111057520-2f705900-84ae-11eb-8d46-c587166354cc.png" width="280" height="600"> <img src="https://user-images.githubusercontent.com/53419293/111057522-30a18600-84ae-11eb-8f47-1a4c717356e3.png" width="280" height="600">
+<img src="https://user-images.githubusercontent.com/53419293/111057516-2a130e80-84ae-11eb-9585-e0f9fc83ca63.png" width="310" height="600"> <img src="https://user-images.githubusercontent.com/53419293/111057520-2f705900-84ae-11eb-8d46-c587166354cc.png" width="310" height="600"> <img src="https://user-images.githubusercontent.com/53419293/111057522-30a18600-84ae-11eb-8f47-1a4c717356e3.png" width="310" height="600">
 </p>
 
 # How did we build it? 🔧
